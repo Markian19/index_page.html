@@ -1,0 +1,40 @@
+#xxx {
+    background: rgb(226, 111, 204);
+}
+
+body {
+    background: rgb(242, 199, 246);
+}
+
+.target {
+    font-size: 18px;
+    text-align: justify;
+
+}
+
+ol {
+    background: gray;
+}
+
+li {
+    font-size: 16px;
+}
+
+table {
+    border: 1px solid gray;
+}
+
+th {
+    border: 1px solid gray;
+}
+
+a {
+    text-decoration: none;
+}
+
+#one {
+    text-decoration: none;
+}
+img {border: 10px solid plum;
+
+}
